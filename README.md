@@ -1,4 +1,3 @@
-[5.md](https://github.com/user-attachments/files/29463061/5.md)
 # 💼 SalAIar — Data Science Salary Intelligence & Analytics Platform
 
 > An end-to-end data analytics project that explores, cleans, models, and visualizes global Data Science salary trends from 2020 onward — built with Python, SQL, and Streamlit.
@@ -416,33 +415,15 @@ A: It's portfolio- and demo-ready. Add auth, monitoring, and a managed DB for pr
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 👨‍💻 Author
-
-# Author
+## 👤 Author
 
 **HARI BABU C H**
 
-- **Role:** Frontend Developer | Data Analyst
-- **GitHub:** [github.com/haribabux7](https://github.com/haribabux7)
-- **LinkedIn:** [linkedin.com/in/haribabux7](https://www.linkedin.com/in/haribabux7)
-- **Portfolio:** [haribabu.me](https://www.haribabu.me)
-- **Email:** [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
+Frontend Developer | Data Analyst | Chennai, India
+
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
 
 ---
-
-## 🙏 Acknowledgements
-
-- **Open Source Libraries** — Pandas, NumPy, Plotly, Streamlit, Seaborn, Matplotlib
-- **Community Datasets** — Public Data Science salary survey contributors
-- **Learning Resources** — Streamlit Docs, Mode SQL Tutorial, Kaggle community notebooks
-- **Inspiration** — levels.fyi, Stack Overflow Developer Survey, Glassdoor compensation reports
-
----
-
-## 📌 Project Information
-
-| Field | Value |
-|---|---|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
